@@ -12,8 +12,6 @@ void print_star()
 
 int main(int argc, char *argv[]){
 
-    int i;
-
 	print_star();
 	print_star();
 	print_star();
